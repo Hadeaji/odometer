@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  color: navy;
+}
+
+.App button{
+  border: none;
+  padding: 10px;
+  margin: 10px;
+  color: rgb(255, 0, 179);
+  font-weight: bold;
+  font-family: monospace;
 }
 
 .App-logo {
